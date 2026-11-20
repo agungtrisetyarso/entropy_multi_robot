@@ -1,0 +1,6 @@
+congestion, random graph, (n,m)=(5,3) done
+general, random graph, (n,m)=(5,3) done
+general, cycle, (n,m)=(6,3) done
+congestion, complete, (n,m)=(6,4) done
+general, random graph, non-uniform prior, (n,m)=(5,4) done
+elapsed 670.8069489002228
